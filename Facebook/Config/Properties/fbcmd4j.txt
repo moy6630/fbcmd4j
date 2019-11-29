@@ -1,0 +1,7 @@
+oauth.appSecret=b3587cd848be6de41efc1998790d2a77
+oauth.accessToken=EAArjI1QIOVUBAEEXeCSAb7nn0yM2GJVQrDdrwr52WEZBvu5O9kGVYSufscHP6EKd2OJH3h2G6bwE7biZBlkedfOey6o9hquZC6BvqOeImw95P9ZBA8lCirfkoQD4EejougyP7SxZByGGtPDsCbnGyreeN8QF91iOwZAB8ovL4QUk83FgDSZCEMBE5bB5d30OO0j1iEjCqjCnkMoO9DckksHApsAindGG33PZBo56UViojwZDZD
+oauth.permissions=user_likes, user_status, user_posts, user_link, email, public_profile
+oauth.appId=3064490640292181
+app token = 3064490640292181|HdP9Htnn-Uf624q6qA1A8t_os7Q
+Fin de la conversación de chat
+Escribe un mensaje...
